@@ -36,12 +36,12 @@ const Homepage = () => {
         borderWidth="1px"
       >
         <Text
-          fontSize="4xl"
+          fontSize="3xl"
           fontFamily="Work sans"
           textAlign="center"
           fontWeight="bold"
         >
-          Chattu
+           Where Stories Take Flight
         </Text>
       </Box>
       <Box bg="white" w="100%" p={4} borderRadius="lg" borderWidth="1px">
